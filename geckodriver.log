@@ -1,0 +1,144 @@
+1659317357477	geckodriver	INFO	Listening on 127.0.0.1:5060
+1659317360507	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "5061" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\usuario\\AppData\\Local\\Temp\\rust_mozprofileBk6sBg"
+1659317361142	Marionette	INFO	Marionette enabled
+1659317361147	Marionette	INFO	Listening on port 5071
+WebDriver BiDi listening on ws://localhost:5061
+Read port: 5071
+1659317361300	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\usuario\\AppData\\Local\\Temp\\rust_mozprofileBk6sBg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:5061/devtools/browser/94c4796c-6fab-497c-82b7-7433b32abff7
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api.imgur.com"
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1659319377605	Marionette	INFO	Stopped listening on port 5071
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659319653031	geckodriver	INFO	Listening on 127.0.0.1:6220
+1659319656083	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "6221" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\usuario\\AppData\\Local\\Temp\\rust_mozprofileQ3ZFlO"
+1659319656641	Marionette	INFO	Marionette enabled
+1659319656646	Marionette	INFO	Listening on port 6232
+Read port: 6232
+WebDriver BiDi listening on ws://localhost:6221
+1659319656785	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\usuario\\AppData\\Local\\Temp\\rust_mozprofileQ3ZFlO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:6221/devtools/browser/7189fd0d-ea46-4fef-bb25-5750f55e8129
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api.imgur.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api.imgur.com"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1659320071368	Marionette	INFO	Stopped listening on port 6232
+ will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\usuario\\AppData\\Local\\Temp\\rust_mozprofilebkIZA5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:6444/devtools/browser/aba99c09-e4f5-43b0-a71d-53132eecf2cf
+1659319948148	Marionette	INFO	Stopped listening on port 6454
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659319975097	geckodriver	INFO	Listening on 127.0.0.1:6543
+1659319978175	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "6544" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\usuario\\AppData\\Local\\Temp\\rust_mozprofileDNBsF1"
+1659319978454	Marionette	INFO	Marionette enabled
+1659319978458	Marionette	INFO	Listening on port 6555
+WebDriver BiDi listening on ws://localhost:6544
+Read port: 6555
+1659319978581	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\usuario\\AppData\\Local\\Temp\\rust_mozprofileDNBsF1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:6544/devtools/browser/cfd739e6-2c09-4d56-8874-90c387562a3b
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api.imgur.com"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1659320070920	Marionette	INFO	Stopped listening on port 6555
+ will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\usuario\\AppData\\Local\\Temp\\rust_mozprofileNpdINP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:6654/devtools/browser/c821b5ee-aa06-46c6-bf29-7fbe52d4cfcb
+1659320072573	Marionette	INFO	Stopped listening on port 6666
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659320122000	geckodriver	INFO	Listening on 127.0.0.1:6812
+1659320125041	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "6813" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\usuario\\AppData\\Local\\Temp\\rust_mozprofileS0URaK"
+1659320125556	Marionette	INFO	Marionette enabled
+1659320125560	Marionette	INFO	Listening on port 6829
+WebDriver BiDi listening on ws://localhost:6813
+Read port: 6829
+1659320125686	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\usuario\\AppData\\Local\\Temp\\rust_mozprofileS0URaK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:6813/devtools/browser/6742bb1d-e7cc-4342-ac7d-9c19047fa1d4
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api.imgur.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api.imgur.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api.imgur.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api.imgur.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1659320224512	Marionette	INFO	Stopped listening on port 6829
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659320227938	geckodriver	INFO	Listening on 127.0.0.1:7002
+1659320230976	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "7003" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\usuario\\AppData\\Local\\Temp\\rust_mozprofileNzWMg2"
+1659320231267	Marionette	INFO	Marionette enabled
+1659320231270	Marionette	INFO	Listening on port 7019
+WebDriver BiDi listening on ws://localhost:7003
+Read port: 7019
+1659320231392	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\usuario\\AppData\\Local\\Temp\\rust_mozprofileNzWMg2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:7003/devtools/browser/a072c4be-8227-4363-b384-0d44a99a9e90
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api.imgur.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api.imgur.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api.imgur.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api.imgur.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1659320608300	Marionette	INFO	Stopped listening on port 7019
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659333071839	geckodriver	INFO	Listening on 127.0.0.1:1693
+1659333074955	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1694" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\usuario\\AppData\\Local\\Temp\\rust_mozprofilerNNr6O"
+1659333075672	Marionette	INFO	Marionette enabled
+1659333075677	Marionette	INFO	Listening on port 1704
+WebDriver BiDi listening on ws://localhost:1694
+Read port: 1704
+1659333075843	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\usuario\\AppData\\Local\\Temp\\rust_mozprofilerNNr6O\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:1694/devtools/browser/efe2daf6-4de1-4a93-87e4-c1768ab304b7
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api.imgur.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api.imgur.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api.imgur.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api.imgur.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1659333839641	Marionette	INFO	Stopped listening on port 1704
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ "localhost" "-no-remote" "-profile" "C:\\Users\\usuario\\AppData\\Local\\Temp\\rust_mozprofilejvXXDy"
+1659333450953	Marionette	INFO	Marionette enabled
+1659333450957	Marionette	INFO	Listening on port 1840
+WebDriver BiDi listening on ws://localhost:1829
+Read port: 1840
+1659333451085	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\usuario\\AppData\\Local\\Temp\\rust_mozprofilejvXXDy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:1829/devtools/browser/d2dedd10-2168-4e17-8561-f82cd4fb30f7
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api.imgur.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api.imgur.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api.imgur.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api.imgur.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1659333839164	Marionette	INFO	Stopped listening on port 1840
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659333878373	geckodriver	INFO	Listening on 127.0.0.1:2108
+1659333881442	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "2109" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\usuario\\AppData\\Local\\Temp\\rust_mozprofilevuACon"
+1659333882094	Marionette	INFO	Marionette enabled
+1659333882099	Marionette	INFO	Listening on port 2119
+WebDriver BiDi listening on ws://localhost:2109
+Read port: 2119
+1659333882265	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\usuario\\AppData\\Local\\Temp\\rust_mozprofilevuACon\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:2109/devtools/browser/9e18f0fc-f709-4793-8b6a-4cf0a81171f4
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api.imgur.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api.imgur.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1659333899960	Marionette	INFO	Stopped listening on port 2119
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
